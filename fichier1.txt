@@ -1,3 +1,4 @@
 - Hello world !
 - Forever alone...
 - Hey, a new file just arrived !
+- Hi, I'm fichier1.txt, what's your name ?
